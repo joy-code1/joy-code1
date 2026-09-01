@@ -3,22 +3,12 @@
 </div>
 
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=20&pause=1000&color=2E9EF7&center=true&vCenter=true&width=460&lines=Full-Stack+Developer;Люблю+чистый+код+и+open-source;Собираю+вещи%2C+которые+решают+задачи" alt="Typing SVG" />
-</p>
-
-<p align="center">
   <a href="https://t.me/[ваш_telegram]">
     <img src="https://skillicons.dev/icons?i=telegram" height="32"/>
   </a>&nbsp;
-  <a href="https://linkedin.com/in/[ваш_linkedin]">
+  <a href="https://www.linkedin.com/in/joy-dev-152428390/">
     <img src="https://skillicons.dev/icons?i=linkedin" height="32"/>
   </a>&nbsp;
-  <a href="mailto:[ваш_email]">
-    <img src="https://skillicons.dev/icons?i=gmail" height="32"/>
-  </a>&nbsp;
-  <a href="https://[ваш_username].github.io">
-    <img src="https://skillicons.dev/icons?i=chrome" height="32"/>
-  </a>
 </p>
 
 <br>
@@ -35,19 +25,19 @@
   <tr>
     <td align="center"><b>Frontend</b></td>
     <td>
-      <img src="https://skillicons.dev/icons?i=react,nextjs,vue,tailwind,html,css" />
+      <img src="https://skillicons.dev/icons?i=react,nextjs,tailwind,html,css" />
     </td>
   </tr>
   <tr>
     <td align="center"><b>Backend</b></td>
     <td>
-      <img src="https://skillicons.dev/icons?i=nodejs,express,django,fastapi,spring" />
+      <img src="https://skillicons.dev/icons?i=django,spring" />
     </td>
   </tr>
   <tr>
     <td align="center"><b>Базы данных</b></td>
     <td>
-      <img src="https://skillicons.dev/icons?i=postgres,mongodb,mysql,redis" />
+      <img src="https://skillicons.dev/icons?i=postgres,mongodb,mysql" />
     </td>
   </tr>
   <tr>
