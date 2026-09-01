@@ -3,13 +3,15 @@
 </div>
 
 <p align="center">
-  <a href="https://t.me/[ваш_telegram]">
-    <img src="https://skillicons.dev/icons?i=telegram" height="32"/>
-  </a>&nbsp;
+  <a href="https://t.me/phenix_v">
+    <img src="https://skillicons.dev/icons?i=telegram" height="32" alt="Telegram">
+  </a>
+  &nbsp;
   <a href="https://www.linkedin.com/in/joy-dev-152428390/">
-    <img src="https://skillicons.dev/icons?i=linkedin" height="32"/>
-  </a>&nbsp;
+    <img src="https://skillicons.dev/icons?i=linkedin" height="32" alt="LinkedIn">
+  </a>
 </p>
+
 
 <br>
 
@@ -19,7 +21,7 @@
   <tr>
     <td align="center" width="140"><b>Языки</b></td>
     <td>
-      <img src="https://skillicons.dev/icons?i=js,ts,py,java,cpp,go" />
+      <img src="https://skillicons.dev/icons?i=js,ts,py,java" />
     </td>
   </tr>
   <tr>
