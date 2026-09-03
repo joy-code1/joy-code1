@@ -40,7 +40,7 @@
       <b>Backend</b>
     </td>
     <td>
-      <img src="https://skillicons.dev/icons?i=django,spring" />
+      <img src="https://skillicons.dev/icons?i=django" />
     </td>
   </tr>
 
