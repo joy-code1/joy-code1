@@ -22,7 +22,9 @@
       <b>Языки</b>
     </td>
     <td>
-      <img src="https://skillicons.dev/icons?i=js,ts,py,java" />
+      <img src="https://skillicons.dev/icons?i=js,ts,py" />
+      <br>
+      <img src="https://img.shields.io/badge/SQL-4479A1?style=for-the-badge" alt="SQL" />
     </td>
   </tr>
 
@@ -31,7 +33,7 @@
       <b>Frontend</b>
     </td>
     <td>
-      <img src="https://skillicons.dev/icons?i=react,nextjs,tailwind,html,css" />
+      <img src="https://skillicons.dev/icons?i=html,css,react,nextjs,tailwind" />
     </td>
   </tr>
 
@@ -40,7 +42,9 @@
       <b>Backend</b>
     </td>
     <td>
-      <img src="https://skillicons.dev/icons?i=django" />
+      <img src="https://skillicons.dev/icons?i=django,fastapi" />
+      <br>
+      <img src="https://img.shields.io/badge/aiogram-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white" alt="aiogram" />
     </td>
   </tr>
 
@@ -49,7 +53,7 @@
       <b>Базы данных</b>
     </td>
     <td>
-      <img src="https://skillicons.dev/icons?i=postgres,mongodb,mysql" />
+      <img src="https://skillicons.dev/icons?i=postgres,supabase" />
     </td>
   </tr>
 
@@ -58,7 +62,7 @@
       <b>Инструменты</b>
     </td>
     <td>
-      <img src="https://skillicons.dev/icons?i=git,github,docker,linux,figma,vscode" />
+      <img src="https://skillicons.dev/icons?i=git,github" />
     </td>
   </tr>
 </table>
