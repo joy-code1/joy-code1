@@ -23,8 +23,7 @@
     </td>
     <td>
       <img src="https://skillicons.dev/icons?i=js,ts,py" />
-      <br>
-      <img src="https://img.shields.io/badge/SQL-4479A1?style=for-the-badge" alt="SQL" />
+      &nbsp;<img src="./assets/sql.svg" width="48" height="48" alt="SQL" />
     </td>
   </tr>
 
@@ -43,8 +42,7 @@
     </td>
     <td>
       <img src="https://skillicons.dev/icons?i=django,fastapi" />
-      <br>
-      <img src="https://img.shields.io/badge/aiogram-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white" alt="aiogram" />
+      &nbsp;<img src="./assets/aiogram.svg" width="48" height="48" alt="aiogram" />
     </td>
   </tr>
 
