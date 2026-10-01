@@ -2,24 +2,14 @@
   <img src="https://capsule-render.vercel.app/api?type=waving&color=0:2E9EF7,100:8E2DE2&height=200&section=header&animation=fadeIn" width="100%" />
 </div>
 
-<p align="center">
-  <a href="https://t.me/phenix_v">
-    <img src="https://cdn.simpleicons.org/telegram/26A5E4" height="32" alt="Telegram">
-  </a>
-  &nbsp;&nbsp;
-  <a href="https://www.linkedin.com/in/joy-dev-152428390/">
-    <img src="https://skillicons.dev/icons?i=linkedin" height="32" alt="LinkedIn">
-  </a>
-</p>
-
 <br>
 
-## 🧰 Мой стек
+## 🧰 My Tech Stack
 
 <table align="center">
   <tr>
     <td align="center" width="140">
-      <b>Языки</b>
+      <b>Languages</b>
     </td>
     <td>
       <img src="https://skillicons.dev/icons?i=js,ts,py" />
@@ -48,7 +38,7 @@
 
   <tr>
     <td align="center">
-      <b>Базы данных</b>
+      <b>Databases</b>
     </td>
     <td>
       <img src="https://skillicons.dev/icons?i=postgres,supabase" />
@@ -57,13 +47,27 @@
 
   <tr>
     <td align="center">
-      <b>Инструменты</b>
+      <b>Tools</b>
     </td>
     <td>
       <img src="https://skillicons.dev/icons?i=git,github" />
     </td>
   </tr>
 </table>
+
+<br>
+
+## 📊 GitHub Stats
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=joy-code1&show_icons=true&theme=radical&hide_border=true" height="170" alt="GitHub stats" />
+  &nbsp;
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=joy-code1&layout=compact&theme=radical&hide_border=true" height="170" alt="Top languages" />
+</p>
+
+<p align="center">
+  <img src="https://streak-stats.demolab.com/?user=joy-code1&theme=radical&hide_border=true" alt="GitHub streak" />
+</p>
 
 <br>
 
