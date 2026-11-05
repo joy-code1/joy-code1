@@ -1,4 +1,4 @@
-### Hey, I'm Joy 👋
+### Hey, I'm Shahzod 👋
 
 I'm a software engineer passionate about building modern web applications and turning ideas into real-world projects.
 
